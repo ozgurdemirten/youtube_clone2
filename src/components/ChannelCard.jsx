@@ -2,7 +2,7 @@ import React from 'react'
 
 function ChannelCard() {
   return (
-    <div>ChannelCardddddddd</div>
+    <div>ChannelCardddddddd123123</div>
   )
 }
 
