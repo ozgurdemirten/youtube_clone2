@@ -2,7 +2,7 @@ import React from 'react'
 
 function ChannelDetail() {
   return (
-    <div>ChannelDetailll</div>
+    <div>ChannelDetailll11</div>
   )
 }
 
